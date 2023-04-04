@@ -1,5 +1,0 @@
-CREATE TABLE Books (id INTEGER PRIMARY KEY, name TEXT, rating INTEGER );
-INSERT INTO Books VALUES (1, "Addicted", 5 );
-INSERT INTO Books VALUES (2, "The Dairy of Anne Frank", 5 );
-INSERT INTO Books VALUES (3, "Eleven Minutes", 4) ;
-SELECT * FROM Books;
